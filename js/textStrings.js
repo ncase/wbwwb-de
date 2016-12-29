@@ -167,8 +167,8 @@ var textStrings_DE = {
     "chyronNothing"      : "Oh wow, *NICHTS*!" ,
     
     // (credits0001.png)
-    "createdBy"          : "created by" , // I'd leave that in English, even for the German translation. /stefan
-    "NickyCase"          : "Nicky Case" , // name; just here in case you want to display text instead of graphic. /stefan
+    "createdBy"          : "" , // I'd leave that in English, even for the German translation. /stefan
+    "NickyCase"          : "" , // name; just here in case you want to display text instead of graphic. /stefan
     
     // (credits0002.png)
     "manyThanks"         : "Vielen Dank an alle Tester:" ,
@@ -198,7 +198,7 @@ var textStrings_DE = {
     "toBeContinued"      : "(wird fortgesetzt!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "We become what we behold." , // I'd leave that in English, even for the German translation. /stefan
+    "WBWWB"              : "Wir werden, was wir sehen." , // I'd leave that in English, even for the German translation. /stefan
     "WSOTATOTSU"         : "Wir formen unsere Werkzeuge, und dann formen unsere Werkzeuge uns." ,
     
     // (quote0003.png)
